@@ -1,0 +1,67 @@
+body{
+	background-image:url('ex9.JPG');
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+}
+.tabs:hover{
+	box-shadow:5px 5px 5px 5px white;
+}
+table{
+	margin-left:auto;
+	margin-right:auto;
+	border-spacing:80px;
+}
+.one{
+	width:520px;
+	height:350px;
+	padding-left:50px;
+	padding-right:50px;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.two{
+	width:600px;
+	height:350px;
+	padding-left:50px;
+	padding-right:50px;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+td:hover{
+	box-shadow:5px 5px 5px 5px white;
+}
+.button{
+	transition:width 2s;
+	background-color:orange;
+	color:black;
+	border-radius:80px;
+	width:100px;
+	height:30px;
+	margin-left:150px;
+}
+.button:hover{
+	height:50px;
+	width:125px;
+}
+ul{
+	padding-left:0;
+	padding-top:0;
+	list-style:none;
+}
+.f1{
+	padding:60px;
+	width:300px;
+}
+.f2{
+	width:410px;
+}
+.f3{
+	width:800px;
+}
+.social:hover{
+	height:60px;
+	width:60px;
+	border-radius:180px;
+	transition:width 4s;
+}
